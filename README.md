@@ -1,9 +1,6 @@
-# derin_ogrenme — Deep Learning Lecture Notebooks
+# Deep Learning Lecture Notebooks
 
-Companion Jupyter notebooks for the **Artificial Intelligence Engineering** deep learning course, based on Simon J.D. Prince's *Understanding Deep Learning* (MIT Press, 2023).
-
-> 📖 Textbook: [udlbook.github.io/udlbook](https://udlbook.github.io/udlbook/)
-
+** Haydar Kilic — Artificial Intelligence Engineering **
 ---
 
 ## Notebooks
@@ -28,7 +25,7 @@ Companion Jupyter notebooks for the **Artificial Intelligence Engineering** deep
 ## Repository Structure
 
 ```
-derin_ogrenme/
+deep_learning/
 ├── README.md
 ├── requirements.txt
 ├── Lecture01_Introduction_Supervised_Learning.ipynb
@@ -53,8 +50,8 @@ derin_ogrenme/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/derin_ogrenme.git
-cd derin_ogrenme
+git clone https://github.com/HAYDARKILIC/deep_learning.git
+cd deep_learning
 
 # 2. Create a virtual environment (recommended)
 python -m venv .venv
@@ -80,5 +77,3 @@ Prince, S. J. D. (2023). *Understanding Deep Learning*. MIT Press.
 Available online: [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
 
 ---
-
-**Instructor:** Haydar Kılıç — Yapay Zeka Mühendisliği (Artificial Intelligence Engineering)
