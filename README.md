@@ -1,4 +1,4 @@
-# Deep Learning Lecture Notebooks
+# Deep Learning
 
 ** Haydar Kilic — Artificial Intelligence Engineering **
 ---
@@ -71,7 +71,7 @@ jupyter notebook
 
 ---
 
-## Reference
+## 📖 Reference
 
 Prince, S. J. D. (2023). *Understanding Deep Learning*. MIT Press.  
 Available online: [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
